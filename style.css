@@ -3,10 +3,20 @@ h1{color:grey;font-family:verdana}
 .maindiv {
     background-color:white;
     color:black;
-    width:300px;
+    width:500px;
     padding:20px;
     border-radius:25px;
-    align:center
+    margin: auto;
 }
-
+input {
+    height: 20px;
+    flex:  200px;
+  
+  }
+  label {
+    display: block;
+     float: left;
+      width: 100px;
+    
+  }
 

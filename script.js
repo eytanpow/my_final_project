@@ -11,8 +11,3 @@ function updateRate()
     document.getElementById("rate_val").innerHTML=x+"%";
 }    
 
-function updatecheck() 
-{
-    var rateval = "checked";
-    document.getElementById("check").innerText=rateval;
-}    
