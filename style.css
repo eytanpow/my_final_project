@@ -1,5 +1,7 @@
 body {background-color:black;font-family:arial;color:white}
 h1{color:grey;font-family:verdana}
+
+
 .maindiv {
     background-color:white;
     color:black;
@@ -8,11 +10,8 @@ h1{color:grey;font-family:verdana}
     border-radius:25px;
     margin: auto;
 }
-input {
-    height: 20px;
-    flex:  200px;
-  
-  }
+/* added label to the names of the boxes in order to
+   center them. now i make each label as a block*/
   label {
     display: block;
      float: left;
